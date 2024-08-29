@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+####My name is Vanshit (Vraj) Thakkar. Here is my short intro:
+- B.S. in Neurobiology, Physiology, and Behavior Science from the University of California, Davis.
+- I am a Research Assistant at UC Davis Medical Center, Department of Neurology, under Dr. Temitayo Oyegbile-Chidi.
+  - I research executive dysfunction in patients with temporal epilepsy!
+- I am applying for PhD programs in Biomedical Engineering (Neuroengineering focus) and Neuroscience. 🧠🦾
+  - I am very interested in Neuroprosthetics, Brain-Computer Interfaces (BCIs), Machine Learning Models, and Neuromorphic Engineering!
+
+###I'm currently working on:
+- Setting up an intro website (nerdymedulla.com)
+- Setting up a blog/vlog for projects (and maybe even a podcast 👀)
+- Designing my stack of different models and transformers to work on different tasks simultaneously (more on that coming later)
+- Other hardware projects that I will post as soon as the website is up! (which might take a while, I'm trying to learn node.js in the process) 
 <!--
 **NerdyMedulla/nerdymedulla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
