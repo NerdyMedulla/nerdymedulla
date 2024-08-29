@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there 👋 My name is Vanshit (Vraj) Thakkar
 
-#### My name is Vanshit (Vraj) Thakkar. Here is my short intro:
-- B.S. in Neurobiology, Physiology, and Behavior Science from the University of California, Davis.
+### Here is my short intro:
+- I just graduated with a B.S. in Neurobiology, Physiology, and Behavior Science from the University of California, Davis.
 - I am a Research Assistant at UC Davis Medical Center, Department of Neurology, under Dr. Temitayo Oyegbile-Chidi.
   - I research executive dysfunction in patients with temporal epilepsy!
 - I am applying for PhD programs in Biomedical Engineering (Neuroengineering focus) and Neuroscience. 🧠🦾
