@@ -8,7 +8,7 @@
   - I am very interested in Neuroprosthetics, Brain-Computer Interfaces (BCIs), Machine Learning Models, and Neuromorphic Engineering!
 
 ### I'm currently working on:
-- Setting up an intro website (nerdymedulla.com)
+- Setting up an intro website ***(<nerdymedulla.com>)***
 - Setting up a blog/vlog for projects (and maybe even a podcast 👀)
 - Designing my stack of different models and transformers to work on different tasks simultaneously (more on that coming later)
 - Other hardware projects that I will post as soon as the website is up! (which might take a while, I'm trying to learn node.js in the process) 
