@@ -14,7 +14,7 @@
 - Other hardware projects that I will post as soon as the website is up! (which might take a while, I'm trying to learn node.js in the process)
 
 ---
-#### Check out my **[LinkedIn](https://www.linkedin.com/in/vanshit-t/)** 
+#### Check out my **[LinkedIn](https://www.linkedin.com/in/vanshit-t/)**!
 #### Email me at vrajjoshi5-at-gmail-dot-com or vrthakkar-at-ucdavis-dot-edu to get a hold of me!
 ---
 <!--
