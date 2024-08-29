@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-####My name is Vanshit (Vraj) Thakkar. Here is my short intro:
+#### My name is Vanshit (Vraj) Thakkar. Here is my short intro:
 - B.S. in Neurobiology, Physiology, and Behavior Science from the University of California, Davis.
 - I am a Research Assistant at UC Davis Medical Center, Department of Neurology, under Dr. Temitayo Oyegbile-Chidi.
   - I research executive dysfunction in patients with temporal epilepsy!
 - I am applying for PhD programs in Biomedical Engineering (Neuroengineering focus) and Neuroscience. 🧠🦾
   - I am very interested in Neuroprosthetics, Brain-Computer Interfaces (BCIs), Machine Learning Models, and Neuromorphic Engineering!
 
-###I'm currently working on:
+### I'm currently working on:
 - Setting up an intro website (nerdymedulla.com)
 - Setting up a blog/vlog for projects (and maybe even a podcast 👀)
 - Designing my stack of different models and transformers to work on different tasks simultaneously (more on that coming later)
